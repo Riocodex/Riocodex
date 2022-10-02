@@ -1,4 +1,4 @@
-[![MasterHead](https://pyxis.nymag.com/v1/imgs/696/4f8/7b5322246d421f650f7944793b796f36ae-NYM-Ani-Piggy-3-1-b.rhorizontal.w1100.jpg)](https://riomax.netlify.app)
+[![MasterHead](https://miro.medium.com/max/1400/0*fZ7YQUQHvU4Lqh8W.gif)](https://riomax.netlify.app)
 <h1 align="center">Hi 👋, I'm Onwuka Rosario</h1>
 <h3 align="center">A blockchain developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
