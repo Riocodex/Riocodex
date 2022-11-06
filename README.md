@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riocodex&label=Profile%20views&color=0e75b6&style=flat" alt="riocodex" /> </p>
 
-- 🌱 I’m currently learning **Web3🔥**
+- 🌱 I’m a Fullstack **Web3 developer🔥**
 
 - 👨‍💻 All of my projects are available at [riomax.netlfiy.app](riomax.netlfiy.app)
 
-- 💬 Ask me about **solidity , dapps , web3**
+- 💬 Ask me about **solidity , dapps , web3 , ethereum , defi , daos , hardhat , security ,smart contracts , reentrancy**
 
 - 📫 How to reach me **onwukachibike@gmail.com**
 
-- ⚡ Fun fact **just for fun**
+- ⚡ Fun fact **my Victory is inevitable**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
