@@ -7,7 +7,7 @@
 
 - 🌱 I’m a Fullstack **Web3 developer🔥**
 
-- 👨‍💻 Check my portfolio 👉 [RiocodeX]([riomax.netlfiy.app](https://riocodex.vercel.app/))
+- 👨‍💻 Check my portfolio 👉 ([riomax.netlfiy.app](https://riocodex.vercel.app/))
 
 - 💬 Ask me about **solidity , dapps , web3 , ethereum , defi , daos , hardhat , security ,smart contracts , reentrancy**
 
