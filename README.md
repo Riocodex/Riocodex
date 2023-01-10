@@ -7,13 +7,13 @@
 
 - 🌱 I’m a Fullstack **Web3 developer🔥**
 
-- 👨‍💻 All of my projects are available at [riomax.netlfiy.app](riomax.netlfiy.app)
+- 👨‍💻 Check my portfolio 👉 [RiocodeX]([riomax.netlfiy.app](https://riocodex.vercel.app/))
 
 - 💬 Ask me about **solidity , dapps , web3 , ethereum , defi , daos , hardhat , security ,smart contracts , reentrancy**
 
 - 📫 How to reach me **onwukachibike@gmail.com**
 
-- ⚡ Fun fact **my Victory is inevitable**
+- ⚡ Fun fact **yo necessito dinero**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
