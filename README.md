@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **onwukachibike@gmail.com**
 
-- ⚡ Fun fact **yo necessito dinero**
+- ⚡ Fact about me **Ill keep moving forward till i crush all my enemies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
