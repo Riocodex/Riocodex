@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **onwukachibike@gmail.com**
 
-- ⚡ Fact about me **Ill keep moving forward till i crush all my enemies**
+- ⚡ Fact about me   **I'll keep moving forward till i crush all my enemies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
